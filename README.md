@@ -1,6 +1,6 @@
 # CreateAPI
 
-This APi will provide data in Json format. Please run .sql to crate table and insert data.
+This APi will provide data in Json format. Please run .sql to create table and insert data.
 PHP5/7 Mysql
 
 API Call: 
